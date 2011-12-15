@@ -1,0 +1,17 @@
+This is a project to leverage the supreme handicapping abilities of Bill (as well as learning MySQL,
+Python, and other fun stuff)
+
+The project plan needs to evolve as such:
+
+1.) Explain to Dave what horse racing is and why each of the data elements are relevent
+2.) Model the database to maximize the leverage gained from the information and minimize the number of times
+    we're going to have to re-do the damn thing.
+3.) Dissect the XML provided in the reference files.
+4.) Design an XSLT sheet and figure out to how to import the data into the database in an easy and automated fashion
+5.) Have Bill develop relevant statistics gathering processes for the data.
+6.) Once we have the data, develop a hypothesis about the relationship between the data and the odds of victory
+7.) Write the code to model the theory
+8.) Backtest the model against old race data
+9.) Repeat steps 6-8.
+10.) ????
+11.) PROFIT!
