@@ -1,0 +1,22 @@
+#######################
+## Stuff Dave Has Done
+######################
+
+-Github account, repo forked, basics set up
+-Some research into pattern-finding and statistical analysis
+
+Possible Approaches To Explore:
+
+--Existing Software (Weka -- open-source, statistical analysis)--
+
+Hey, it already exists.  All we'd have to do is invest a bit of time 
+in playing around with it, to see if that sort of existing software 
+could help our cause (and short-cut us to the $$$PROFIT$$$ stage.
+
+
+--Baysian/other machine-learning algorithms--
+
+Could be promising if we write our own Bayesian classifier (something 
+I've thought about doing for fun anyway).  We could hack around with 
+a tried-and-true Bayes implementation like SpamAssassin to test 
+potential effectiveness.
